@@ -4,7 +4,7 @@
 
 ## About Us
 
-Nhatroso is a text-forward organization dedicated to transforming the rental housing sector through digital innovation. Originally founded at **Nha Trang University**, our mission is to bring **Automation, Transparency, and Professionalism** to property management.
+Nhatroso is a text-forward organization dedicated to transforming the rental housing sector through digital innovation. Originally founded by a student at **Nha Trang University**, our mission is to bring **Automation, Transparency, and Professionalism** to property management.
 
 ## Our Vision
 
