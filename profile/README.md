@@ -30,7 +30,7 @@ We leverage cutting-edge technology to solve real-world challenges:
 
 ## Connect With Us
 
-- 🌐 **Project Workspace**: [Notion Team Space](https://docs.nhatroso.com)
+- 🌐 **Website**: [Nhatroso Platform](https://nhatroso.com)
 - 📧 **Email**: [contact@nhatroso.com](mailto:contact@nhatroso.com)
 
 ---
